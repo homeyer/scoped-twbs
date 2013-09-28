@@ -13,4 +13,4 @@ The wrapping style is `.twbs`, to change it update `scoped-twbs.less`.
 
 The bootstrap submodule is pegged to a release. To see which one: `cd bootstrap`, `git status`. Whichever branch it tracks should be the release, like 3.0.0. 
 
-To change the version of bootstrap, simply checkout the release: `git checkout -b v3.0.0 tags/v3.0.
+To change the version of bootstrap, simply checkout the release: `git checkout -b v3.0.0 tags/v3.0`.
