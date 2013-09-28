@@ -9,3 +9,8 @@ module.exports = (grunt) ->
       development:
         files:
           "scoped-twbs.css": "scoped-twbs.less"
+      production:
+        files:
+          "scoped-twbs.min.css": "scoped-twbs.less"
+        options:
+          yuicompress: true
