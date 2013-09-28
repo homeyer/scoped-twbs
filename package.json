@@ -1,0 +1,19 @@
+{
+  "name": "scoped-twbs",
+  "version": "0.0.1",
+  "description": "wraps twbs/bootstrap in a containing style, to scope it to certain areas of a site.",
+  "dependencies": {
+    "grunt-cli": "~0.1.9"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/homeyer/scoped-twbs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/homeyer/scoped-twbs/issues"
+  }
+}
