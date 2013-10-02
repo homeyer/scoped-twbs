@@ -6,7 +6,7 @@ wraps twbs/bootstrap in a containing style, to scope it to certain areas of a si
 ## Usage
 1. `git clone`
 2. `npm install`
-3. bootstrap is included as a submodule, update it: `npm submodule update`
+3. bootstrap is included as a submodule, update it: `git submodule update`
 4. generate the scoped style: `grunt`
 
 The wrapping style is `.twbs`, to change it update `scoped-twbs.less`.
